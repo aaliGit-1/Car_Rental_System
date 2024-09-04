@@ -1,2 +1,3 @@
 # Car_Rental_System
-A platform which manages vehicle reservation and a user can rent a car. 
+ A platform that manages vehicle reservations, customer information and billing for renting cars. <br>
+ Implemented the concepts of Java OOPs (Object-Oriented Programming).
